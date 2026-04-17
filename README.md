@@ -8,7 +8,7 @@ This project performs advanced analysis on an e-commerce database for a bicycle 
 
 - SQL (Microsoft SQL Server)
 - Excel / CSV datasets
-- Data exploration techniques (joins, aggregations, filtering, CTEs)
+- Data analysis techniques (Cumulative, Part-to-Whole, Data Segmentation)
 
 ---
 
