@@ -1,6 +1,6 @@
 # SQL Advanced Data Analytics Project
 
-This project performs advanced analysis on an e-commerce database for a bicycle and accessories store
+This project performs advanced analysis on an e-commerce database for a bicycle and accessories store. Cumulative analysis, Part-to-Whole analysis and Data Segmentation is used gather key insights into customer behaviour and sales revenue
 
 ---
 
